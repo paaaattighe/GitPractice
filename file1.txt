@@ -1,1 +1,2 @@
 Ward: This is a text file
+Ward: adding a new line of text
